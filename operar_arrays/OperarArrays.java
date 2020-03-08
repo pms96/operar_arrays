@@ -9,7 +9,7 @@ public class OperarArrays {
 		for (int i = 0; i < arrayNumeros.length; i++) {
 			arrayNumeros [i] = (int) Math.round(Math.random()* (20 - 10)+ 1 );
 			// System.out.println(arrayNumeros [i]);
-			System.out.println("esto es una prueba");
+			System.out.println("esto es una prueba si si ");
 			
 		}
 
